@@ -71,8 +71,6 @@
 
 <h2 align="center">📫 Contact</h2>
 
-<h2 align="center">📫 Contact</h2>
-
 <p align="center">
   📚 이전에 공부한 내용은 블로그에 정리해두었습니다.<br />
 </p>
