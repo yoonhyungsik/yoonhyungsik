@@ -9,10 +9,8 @@
 <p align="center">
   <strong>Computer Vision Researcher | Multimodal AI Enthusiast </strong>  
   <br /><br />
-  안녕하세요! 저는 <b>딥러닝 기반 시각 지능</b>과 <b>생성형 멀티모달 AI</b>에 깊은 관심을 가진<br />
-  4학년 학부생입니다.  
-  현재는 <strong>텍스트+이미지를 기반으로 음악을 생성하는 AI</strong>를  
-  <b>모바일에서 온디바이스로 실행</b>하는 캡스톤 프로젝트를 진행중입니다.
+  안녕하세요! 저는 <b>딥러닝 기반 시각 지능</b>과 <b>생성형 멀티모달 AI</b>에 깊은 관심을 가진 4학년 학부생입니다.  
+
 </p>
 
 ---
@@ -22,7 +20,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Computer Vision-6C63FF?style=for-the-badge&logo=eyeem&logoColor=white" />
   <img src="https://img.shields.io/badge/Multimodal AI-00C9FF?style=for-the-badge&logo=protonmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformer Models-7D5FFF?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/ON-Device AI-4A90E2?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
